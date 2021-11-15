@@ -1,12 +1,11 @@
 ### Hello | Olá | hola 👋
-- -----------------------------------------------------------------
 
 - 👨‍💼 Atualmente não estou trabalhando, somente estudando.
 - 🧑‍🎓 Estou cursando Faculdade, CST em Análise e desenvolvimento de Sistemas - PUCPR.
 - 🧑‍💻 Estou fazendo cursos de Web Development Full Stack no Instituto de Gestão e Tecnologia da Informação - IGTI
 - 🇺🇸 basic stage course. 🇪🇸 Curso de etapa intermedia. 🇧🇷 Nativo Fluente.
 - 🏝️ Moro em Florianópolis - Santa Catarina - Brasil.
-- 💬 WhatsApp ++55 48 99128 2973 | Jacksondouglasdesouza@gmail.com
+- 💬 WhatsApp | Telegram ++55 48 99128 2973
 
 <div align="center">
   <a href="https://github.com/jacksondouglasdesouza">
