@@ -31,8 +31,8 @@
   ### Meus Cursos profissionalizantes 👨‍💻:
   
 - ✅ HTML5 e CSS3 - Desenvolvimento web Básico. https://bit.ly/3HpkcVZ
-- ✅ Java - Fundamentos. https://www.treinaweb.com.br/certificado/P5RJN2DTLE1A
-- ✅ JavaScript - Fundamentos. https://www.treinaweb.com.br/certificado/JFDRJJZRNI6C
+- ✅ Java - Fundamentos. https://bit.ly/30snp5X
+- ✅ JavaScript - Fundamentos. https://bit.ly/3wQk3G9
 - ✅ Linguagem C - Básico. https://www.treinaweb.com.br/certificado/LYUBU49B0IMS
 - ✅ Lógica Orientada a Objetos Completo. https://www.treinaweb.com.br/certificado/BDIOKFIG65OD
 - ✅ Lógica de Programação em C- Completo. https://www.treinaweb.com.br/certificado/8YWJXH15SO63
