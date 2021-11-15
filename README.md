@@ -28,8 +28,9 @@
  ##
  
  
-- 👨‍💻 Meus Cursos profissionalizantes:
-- ✅ HTML5 e CSS3 - Desenvolvimento web Básico. https://www.treinaweb.com.br/certificado/WBPPCQZCS0A9
+  ### Meus Cursos profissionalizantes 👨‍💻:
+  
+- ✅ HTML5 e CSS3 - Desenvolvimento web Básico. https://bit.ly/3HpkcVZ
 - ✅ Java - Fundamentos. https://www.treinaweb.com.br/certificado/P5RJN2DTLE1A
 - ✅ JavaScript - Fundamentos. https://www.treinaweb.com.br/certificado/JFDRJJZRNI6C
 - ✅ Linguagem C - Básico. https://www.treinaweb.com.br/certificado/LYUBU49B0IMS
