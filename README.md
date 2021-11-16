@@ -28,7 +28,7 @@
  ##
  
  
-  ### Meus Cursos profissionalizantes 👨‍💻:
+  ### Meus Cursos Profissionalizantes 👨‍💻:
   
 ### [ Soft Skills. ]
   
