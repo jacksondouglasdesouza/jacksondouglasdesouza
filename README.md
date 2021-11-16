@@ -30,6 +30,13 @@
  
   ### Meus Cursos profissionalizantes 👨‍💻:
   
+### [ Soft Skills. ]
+  
+- ✅ Soft Skills e Hard Skills. https://bit.ly/2YSzOjq
+  
+  
+### [ Hard Skills. ]
+  
 - ✅ HTML5 e CSS3 - Desenvolvimento web Básico. https://bit.ly/3HpkcVZ
 - ✅ Java - Fundamentos. https://bit.ly/30snp5X
 - ✅ JavaScript - Fundamentos. https://bit.ly/3wQk3G9
