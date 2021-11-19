@@ -28,7 +28,7 @@
  ##
  
  
-  ### Meus cursos de qualificação profissionalizante. 👨‍💻:
+  ### Meus cursos de qualificação profissional. 👨‍💻:
   
 ### [ Soft Skills. ]
   
@@ -37,6 +37,7 @@
   
 ### [ Hard Skills. ]
   
+- ✅ Ubuntu Linux - Fundamentos para Desenvolvedor. https://bit.ly/3Dz7EJe
 - ✅ Linux - Fundamentos para desenvolvedores. https://bit.ly/3oA0KgK
 - ✅ HTML5 e CSS3 - Desenvolvimento web Básico. https://bit.ly/3HpkcVZ
 - ✅ Java - Fundamentos. https://bit.ly/30snp5X
