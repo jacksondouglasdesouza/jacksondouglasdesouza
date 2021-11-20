@@ -30,13 +30,10 @@
  
   ### Meus cursos de qualificação profissional. 👨‍💻:
   
-### [ Soft Skills. ]
+### [ Soft Skills. ] && [ Hard Skills. ]
   
+- ✅ Soft Skills - PDI – Plano de Desenvolvimento Individual. https://bit.ly/3qVp2UX
 - ✅ Soft Skills e Hard Skills. https://bit.ly/2YSzOjq
-  
-  
-### [ Hard Skills. ]
-  
 - ✅ Ubuntu Linux - Fundamentos para Desenvolvedor. https://bit.ly/3Dz7EJe
 - ✅ Linux - Fundamentos para desenvolvedores. https://bit.ly/3oA0KgK
 - ✅ HTML5 e CSS3 - Desenvolvimento web Básico. https://bit.ly/3HpkcVZ
