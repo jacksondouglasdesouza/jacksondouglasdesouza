@@ -30,6 +30,7 @@
 
  - ✅ Desenvolvedor(a) Front End - IGTI - Instituto de Gestão e Tecnologia da Informação
  - ✅ Programador(a) de Software Iniciante - GTI - Instituto de Gestão e Tecnologia da Informação
+ - ✅ Responsive Web Design Certification - freeCodeCamp
 
  
   ### Meus cursos de qualificação profissional. 👨‍💻:
