@@ -36,6 +36,7 @@
   
 ### [ Soft Skills. ] && [ Hard Skills. ]
   
+- ✅ HTML5 e CSS3 - Desenvolvimento web Avançado. https://bit.ly/3EVrChe 
 - ✅ Soft Skills - PDI – Plano de Desenvolvimento Individual. https://bit.ly/3qVp2UX
 - ✅ Soft Skills e Hard Skills. https://bit.ly/2YSzOjq
 - ✅ Ubuntu Linux - Fundamentos para Desenvolvedor. https://bit.ly/3Dz7EJe
