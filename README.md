@@ -34,7 +34,7 @@
  
   ### Meus cursos de qualificação profissional. 👨‍💻:
   
-### [ Soft Skills. ] && [ Hard Skills. ]
+  ### [ Soft Skills. ] && [ Hard Skills. ] && [<a href="https://github.com/jacksondouglasdesouza/outrosCursos/blob/main/README.md"> Outros Cursos </a>]
   
 - ✅ JavaScript Básico. https://bit.ly/3JYgh3R 
 - ✅ HTML5 e CSS3 - Desenvolvimento web Avançado. https://bit.ly/3EVrChe 
