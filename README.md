@@ -1,7 +1,6 @@
 ### Hello | Olá | hola 👋
 
 - 👨‍💼 Atualmente não estou trabalhando, somente estudando.
-- 🧑‍💻 Estou fazendo cursos de Web Development Full Stack no Instituto de Gestão e Tecnologia da Informação - IGTI
 - 🇺🇸 basic stage course. 🇪🇸 Curso de etapa intermedia. 🇧🇷 Nativo Fluente.
 - 🏝️ Moro em Florianópolis - Santa Catarina - Brasil.
 - 💬 WhatsApp | Telegram ++55 48 99128 2973
@@ -24,10 +23,14 @@
   <a href = "https://api.whatsapp.com/send?phone=5548991282973"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="right"></a>
   </div> <br>
   
- ##
+ ## 
  
+  ### 🔋🔌 Formação acadêmica:
+  
+ - ✅ Ensino Técnico em Eletrônica - IFSC - Instituto Federal de Santa Catarina
+  
   ### 🧑🏽‍🔧 Formação Imersiva Profissional:
-
+  
  - ✅ Desenvolvedor(a) Front End - IGTI - Instituto de Gestão e Tecnologia da Informação
  - ✅ Programador(a) de Software Iniciante - GTI - Instituto de Gestão e Tecnologia da Informação
 
