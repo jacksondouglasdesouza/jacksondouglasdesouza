@@ -30,7 +30,7 @@
  - ✅ Desenvolvedor(a) Front End - IGTI - Instituto de Gestão e Tecnologia da Informação
 
  
-  ### Meus cursos de qualificação profissional. 👨‍💻:
+  ### Meus cursos de qualificação profissional. 👨‍💻: 
   
   ### [<a href="https://github.com/jacksondouglasdesouza/cursosdehardskills/blob/main/README.md"> Hard Skills  ⬅️ </a>]
   ### [<a href="https://github.com/jacksondouglasdesouza/cursosdeSoftSkills/blob/main/README.md"> Soft Skills ⬅️ </a>]
