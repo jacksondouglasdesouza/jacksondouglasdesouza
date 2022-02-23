@@ -26,7 +26,7 @@
  ## 
   ### 🧑🏽‍🔧 Formação Profissional:
   
- - ✅ Formação Profissional - Desenvolvedor Full Stack Java - EBAC - Escola Britânica de Artes Criativas e Tecnologia
+ - ✅ Desenvolvedor Full Stack Java - EBAC - Escola Britânica de Artes Criativas e Tecnologia
   
   ### 🧑🏽‍🔧 Formação Imersiva Profissional:
   
