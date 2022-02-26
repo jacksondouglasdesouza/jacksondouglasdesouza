@@ -28,10 +28,6 @@
   
   - ✅ Ensino Técnico em Eletrônica - IFSC - Instituto Federal de Santa Catarina
   
-  ### 🧑🏽‍🔧 Formação Profissional:
-  
- - ✅ Desenvolvedor Full Stack Java - EBAC - Escola Britânica de Artes Criativas e Tecnologia
-  
   ### 🏋‍♀ Formação Imersiva Profissional:
   
  - ✅ Desenvolvedor(a) Front End - IGTI - Instituto de Gestão e Tecnologia da Informação
