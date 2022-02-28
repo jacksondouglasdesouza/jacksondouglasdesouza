@@ -25,7 +25,7 @@
   
  ##
   
-  ### 🏋‍♀ Formação Imersiva Profissional:
+  ### 🏋‍♀ Formação Imersiva Profissional: 
   
  - ✅ Desenvolvedor(a) Front End - IGTI - Instituto de Gestão e Tecnologia da Informação
 
