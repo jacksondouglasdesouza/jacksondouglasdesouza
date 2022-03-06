@@ -41,7 +41,7 @@
  ##
   
   ### 🎒 Formação Acadêmica:
- - ✅ Técnico em Desenvolvimento de Sistemas - SENAI/SC - Serviço Nacional de Aprendizagem Industrial
+ - ✅ Ensino Técnico em Desenvolvimento de Sistemas - SENAI/SC - Serviço Nacional de Aprendizagem Industrial
   ### 🏋‍♀ Formação Imersiva Profissional: 
  - ✅ Desenvolvedor(a) Front End - IGTI - Instituto de Gestão e Tecnologia da Informação
  
