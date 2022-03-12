@@ -45,6 +45,7 @@
   ### 🏋‍♀ Formação Imersiva Profissional: 
  - ✅ Desenvolvedor(a) Front End - IGTI - Instituto de Gestão e Tecnologia da Informação
  - ✅ UX Designer - IGTI - Instituto de Gestão e Tecnologia da Informação
+ - ✅ Programador de Software Iniciante - Formação Imersiva Profissional
  
   ### Meus cursos de qualificação profissional. 👨‍💻: 
   
