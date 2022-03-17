@@ -21,7 +21,9 @@
   <img align="center" alt="doug-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="doug-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="doug-github" height="30" width="30" src="https://img.icons8.com/color/48/000000/github-2.png">
-  </div><br>
+  <img align="center" alt="doug-sass" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  </div>
+  <br>
   
 <div align="left">
   <a href="https://www.linkedin.com/in/jacksondouglasdesouza" target="_blank">
