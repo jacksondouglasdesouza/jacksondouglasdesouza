@@ -34,7 +34,6 @@
  - ✅ Ensino Técnico em Desenvolvimento de Sistemas - SENAI/SC - Serviço Nacional de Aprendizagem Industrial
 
   ### 🏋‍♀ Formação Imersiva Profissional: 
- - ✅ Desenvolvedor(a) Front End - IGTI - Instituto de Gestão e Tecnologia da Informação
  - ✅ UX Designer - IGTI - Instituto de Gestão e Tecnologia da Informação
  - ✅ Programador de Software Iniciante - IGTI - Instituto de Gestão e Tecnologia da Informação
  
