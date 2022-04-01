@@ -35,8 +35,8 @@
  - ✅ Ensino Médio Profissionalizante, Técnico em Eletrônica - IFSC - Instituto Federal de Santa Catarina
 
   ### 🏋‍♀ Formação Imersiva Profissional: 
- - ✅ UX Designer - IGTI - Instituto de Gestão e Tecnologia da Informação
- - ✅ Programador de Software Iniciante - IGTI - Instituto de Gestão e Tecnologia da Informação
+  - ✅ UI Design Fundamental - Origamid
+  - ✅ JavaScript Completo ES6 - Origamid
  
   ### Meus cursos de qualificação profissional. 👨‍💻: 
   
