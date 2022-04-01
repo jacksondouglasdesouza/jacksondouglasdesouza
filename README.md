@@ -32,6 +32,7 @@
   
   ### 🎒 Formação Acadêmica:
  - ✅ Ensino Técnico em Desenvolvimento de Sistemas - SENAI/SC - Serviço Nacional de Aprendizagem Industrial
+ - ✅ Ensino Médio Profissionalizante, Técnico em Eletrônica - IFSC - Instituto Federal de Santa Catarina
 
   ### 🏋‍♀ Formação Imersiva Profissional: 
  - ✅ UX Designer - IGTI - Instituto de Gestão e Tecnologia da Informação
