@@ -35,8 +35,10 @@
  - ✅ Ensino Médio Profissionalizante, Técnico em Eletrônica - IFSC - Instituto Federal de Santa Catarina
 
   ### 🏋‍♀ Formação Imersiva Profissional: 
-  - ✅ UI Design Fundamental - Origamid
-  - ✅ JavaScript Completo ES6 - Origamid
+    
+  - ✅ JavaScript Completo ES6 - ORIGAMID Treinamentos
+  - ✅ HTML5 e CSS3 Completo - ORIGAMID Treinamentos
+  - ✅ UI Design Fundamental - ORIGAMID Treinamentos
  
   ### Meus cursos de qualificação profissional. 👨‍💻: 
   
