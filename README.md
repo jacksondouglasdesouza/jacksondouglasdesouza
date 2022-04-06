@@ -32,7 +32,8 @@
  ##
   
   ### 🎒 Formação Acadêmica:
- - ✅ Ensino Técnico em Desenvolvimento de Sistemas - SENAI/SC - Serviço Nacional de Aprendizagem Industrial
+ - ✅ Ensino Técnico, Técnico em Desenvolvimento de Sistemas - SENAI/SC - Serviço Nacional de Aprendizagem Industrial
+ - ✅ Ensino Técnico, Técnico em Eletrônica - IFSC - Instituto Federal de Santa Catarina
 
   ### 🏋‍♀ Formação Imersiva Profissional: 
     
