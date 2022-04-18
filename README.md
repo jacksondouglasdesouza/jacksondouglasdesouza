@@ -32,7 +32,7 @@
  ##
   
   ### 🎒 Formação Acadêmica:
- - ✅ IFSC - Instituto Federal de Santa CatarinaIFSC - Ensino Técnico, Técnico em Eletrônica.
+ - ✅ IFSC - Instituto Federal de Santa Catarina - IFSC - Ensino Técnico, Técnico em Eletrônica.
 
   ### 🏋‍♀ Formação Imersiva Profissional: 
     
