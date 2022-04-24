@@ -3,7 +3,7 @@
 - 👨‍💼 Atualmente não estou trabalhando, somente estudando.
 - 🇺🇸 basic stage course. 🇪🇸 Curso de etapa intermedia. 🇧🇷 Nativo Fluente.
 - 🏝️ Moro em Florianópolis - Santa Catarina - Brasil.
-- 💬 WhatsApp | Telegram [++55] 48 99128 - 2973
+- 💬 WhatsApp | Telegram [++55] 48 99166 - 8449
 <br>
 
 <div align="left">
