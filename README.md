@@ -25,7 +25,8 @@
   <img align="center" alt="doug-github" height="35" width="45" src="https://img.icons8.com/color/48/000000/github-2.png">
   <img align="center" alt="doug-vscode" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="doug-Linguagem-Java" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="doug-LInguagem-C" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="doug-Linguagem-C" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img align="center" alt="doug-Kicad" height="45" width="95" src="https://www.kicad.org/img/kicad_logo_small.png">
   </div>
   <br>
   
