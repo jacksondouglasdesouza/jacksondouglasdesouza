@@ -35,12 +35,6 @@
   ### 🎒 Formação Acadêmica:
  - ✅ IFSC - Instituto Federal de Santa Catarina - IFSC - Ensino Técnico, Técnico em Eletrônica.
 
-  ### 🏋‍♀ Formação Imersiva Profissional: 
-    
-  - ✅ JavaScript Completo ES6 - ORIGAMID Treinamentos
-  - ✅ HTML5 e CSS3 Completo - ORIGAMID Treinamentos
-  - ✅ UI Design Fundamental - ORIGAMID Treinamentos
- 
   ### Meus cursos de qualificação profissional. 👨‍💻: 
   
   ### [<a href="https://github.com/jacksondouglasdesouza/cursosdehardskills/blob/main/README.md"> Hard Skills </a>] ⬅️
