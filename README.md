@@ -33,7 +33,7 @@
  ##
   
   ### 🎒 Formação Acadêmica:
- - ✅ IFSC - Instituto Federal de Santa Catarina - IFSC - Ensino Técnico, Técnico em Eletrônica.
+ - ✅ Ensino Técnico - Técnico em Desenvolvimento de Sistemas - SENAI - Cursando
 
   ### Meus cursos de qualificação profissional. 👨‍💻: 
   
