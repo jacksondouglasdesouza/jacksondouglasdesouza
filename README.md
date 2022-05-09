@@ -36,10 +36,10 @@
 
   ### Meus cursos de qualificação profissional. 👨‍💻: 
   
-  ### [<a href="https://github.com/jacksondouglasdesouza/cursosdehardskills"> Hard Skills </a>] ⬅️ - Cursos de Habilidades Profissionais.
-  ### [<a href="https://github.com/jacksondouglasdesouza/cursosdeSoftSkills"> Soft Skills </a>] ⬅️ - Cursos de Habilidades Interpessoais.
-  ### [<a href="https://github.com/jacksondouglasdesouza/outrosCursos"> Outros Cursos Complementares </a>] ⬅️ - Cursos de Habilidades Complementares.
-  ### [<a href="https://github.com/jacksondouglasdesouza/eventos"> Eventos </a>] ⬅️ - Eventos que participei.
+  ### [<a href="https://github.com/jacksondouglasdesouza/cursosdehardskills"> Hard Skills </a>] ⬅️
+  ### [<a href="https://github.com/jacksondouglasdesouza/cursosdeSoftSkills"> Soft Skills </a>] ⬅️
+  ### [<a href="https://github.com/jacksondouglasdesouza/outrosCursos"> Outros Cursos Complementares </a>] ⬅️
+  ### [<a href="https://github.com/jacksondouglasdesouza/eventos"> Eventos </a>] ⬅️
   <br>
     
  <div align="left">
