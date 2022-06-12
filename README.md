@@ -38,7 +38,6 @@
   ### [<a href="https://github.com/jacksondouglasdesouza/cursosdehardskills"> Hard Skills </a>] ⬅️
   ### [<a href="https://github.com/jacksondouglasdesouza/cursosdeSoftSkills"> Soft Skills </a>] ⬅️
   ### [<a href="https://github.com/jacksondouglasdesouza/outrosCursos"> Outros Cursos Complementares </a>] ⬅️
-  ### [<a href="https://github.com/jacksondouglasdesouza/eventos"> Eventos </a>] ⬅️
   <br>
     
  <div align="left">
