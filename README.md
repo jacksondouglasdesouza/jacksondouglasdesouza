@@ -32,9 +32,6 @@
   
  ##
   
-  ### 🎒 Formação Acadêmica:
-    
- - ✅ Ensino Técnico - Técnico em Desenvolvimento de Sistemas - SENAI
 
   ### Meus cursos de qualificação profissional. 👨‍💻: 
   
