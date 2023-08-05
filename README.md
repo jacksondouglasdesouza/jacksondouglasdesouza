@@ -3,7 +3,7 @@
 
 <div>
 <img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/0d294d9d-600b-4ba7-b06a-fe57c23d232a.svg" width=
-  "48%">
+  "45%">
 <img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/2dd28947-eab3-4c0f-98a0-82e0419c91df.svg" width=
-  "48%" align="right">  
+  "45%" align="right">  
 </div>
