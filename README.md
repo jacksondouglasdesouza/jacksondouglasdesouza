@@ -10,12 +10,13 @@
 
 <div align="left">
 
-<img src="https://github.com/user-attachments/assets/29d9766d-13ee-45c7-922e-30033db648d9" width="300" align="right" style="padding-left: 20px;">
+<img src="https://github.com/user-attachments/assets/29d9766d-13ee-45c7-922e-30033db648d9" width="300" align="right" style="padding-left: 20;">
+&nbsp; 
 
 Sou um estudante apaixonado por tecnologia e moro em Florianópolis, SC. Adoro enfrentar desafios complexos, projetar algoritmos e trocar ideias criativas com meus colegas de estudo. Sempre busco superar as expectativas e, embora seja perfeccionista, valorizo o equilíbrio entre o foco nos detalhes e a visão do todo. Sou flexível e respeito as dinâmicas de equipe, aplicando essa postura tanto no ambiente de trabalho quanto em meu dia a dia.
 
 Nos momentos de lazer, gosto de acampar, fazer trilhas, caminhar, ler e, quando possível, viajar. Tenho uma curiosidade constante por aprender coisas novas e me conectar com pessoas de diferentes áreas. Estou sempre disposto a adquirir novos conhecimentos.
-
+&nbsp; 
 Se quiser se conectar comigo, sinta-se à vontade para entrar em contato! 😄
 
 </div>
@@ -23,7 +24,6 @@ Se quiser se conectar comigo, sinta-se à vontade para entrar em contato! 😄
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;
 
 ## ⚡ Minhas Estatísticas de Codificação
 
