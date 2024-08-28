@@ -26,7 +26,10 @@ Se quiser se conectar comigo, sinta-se à vontade para entrar em contato! 😄
 
 </div>
 
----
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 ## ⚡ Minhas Estatísticas de Codificação
 
