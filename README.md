@@ -10,7 +10,7 @@
 
 <div align="left">
 
-<img src="https://github.com/user-attachments/assets/29d9766d-13ee-45c7-922e-30033db648d9" width="300" align="right" style="padding: 20px;">
+<img src="https://github.com/user-attachments/assets/7fc18aa8-7a34-4148-b832-5e7021fcde6b" width="300" align="right" style="padding: 20px;">
 &nbsp;
 
 Sou um estudante apaixonado por tecnologia e moro em Florianópolis, SC. Adoro enfrentar desafios complexos, projetar algoritmos e trocar ideias criativas com meus colegas de estudo. Sempre busco superar as expectativas e, embora seja perfeccionista, valorizo o equilíbrio entre o foco nos detalhes e a visão do todo. Sou flexível e respeito as dinâmicas de equipe, aplicando essa postura tanto no ambiente de trabalho quanto em meu dia a dia.
