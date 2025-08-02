@@ -1,4 +1,4 @@
-# Olá, eu sou o [Jackson Douglas](https://availchet.github.io)! 👋
+# Olá, eu sou o [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
 
 > 💻 Sou estudante de  Análise e Desenvolvimento de Sistemas - PUCPR
 
