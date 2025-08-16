@@ -98,7 +98,7 @@ J’ai une curiosité constante pour apprendre de nouvelles choses et me connect
 &nbsp;  
 &nbsp;
 
-## ⚡ Minhas Estatísticas de Codificação
+## ⚡ My Coding Statistics
 
 ![Estatísticas de Codificação](https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/e3d21da4-7a6b-4d5d-aa28-d665edabb95e.svg)
 
