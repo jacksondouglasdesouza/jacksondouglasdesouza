@@ -8,7 +8,7 @@
 
 <div align="left">
 
-<img src="https://github.com/user-attachments/assets/68b78609-b11e-461f-9234-7db1c2c2b17c" width="300" align="right" style="padding: 20px;">
+<img src="https://github.com/user-attachments/assets/7f9d7a0d-18f4-444d-b730-8509fbdf4ebe" width="400" align="right" style="padding: 20px;">
 &nbsp;
 
 Bem-vindo ao meu perfil!
