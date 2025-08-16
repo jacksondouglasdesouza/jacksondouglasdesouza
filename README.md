@@ -1,5 +1,5 @@
-# Olá, eu sou o [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
-
+# Hello! I’m [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
+ 
 <p><a href="https://twitter.com/catmorphnft"><img src="https://img.shields.io/twitter/follow/catmorphnft?style=social" alt="Twitter: @catmorphnft"></a><a href="https://www.linkedin.com/in/jacksondouglasdsouza/"><img src="https://img.shields.io/badge/-jackson%20Douglas-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jacksondouglasdsouza/" alt="Linkedin: @jacksondouglasdsouza">
 </a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.shields.io/github/followers/jacksondouglasdesouza?label=follow&amp;style=social" alt="GitHub:@jacksondouglasdesouza"></a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.shields.io/github/followers/jacksondouglasdesouza?label=follow&amp;style=social" alt="GitHub: @jacksondouglasdesouza"></a><a href="https://dev.to/jacksondouglasdesouzaa"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Perfil DEV de jacksondouglasdesouzaa" height="20" width="25">
 </a><a href="mailto:jacksondouglasdesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-jacksondouglasdesouza-red" alt="Gmail: disponível"></a>
@@ -10,6 +10,26 @@
 
 <img src="https://github.com/user-attachments/assets/7f9d7a0d-18f4-444d-b730-8509fbdf4ebe" width="400" align="right" style="padding: 20px;">
 &nbsp;
+
+
+Welcome to my profile! My name is Douglas, I’m Brazilian, and a student of a Bachelor’s degree in Computer Science as well as a Technology degree in Systems Analysis and Development.
+
+I’m the proud father of 7 cats — they can be a handful, but they’re very special and always present in my busy study routine, right by my side.
+
+In my free time, I enjoy camping, hiking, walking, reading, and traveling whenever possible.
+
+I’m flexible and respect the individuality of each person, applying this mindset both in the workplace and in my daily life.
+
+I enjoy tackling complex challenges, designing algorithms, and exchanging creative ideas with friends. I always strive to exceed expectations and, although I’m a perfectionist, I value the balance between attention to detail and the big picture.
+
+I have a constant curiosity for learning new things and connecting with people from different fields.
+&nbsp;
+If you’d like to connect with me, feel free to reach out! I’m always open 😄
+
+<details>
+  <summary><strong style="font-size: larger;">Ver Perfil em Português</strong></summary>
+
+**Olá, eu sou o [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋**
 
 Bem-vindo ao meu perfil!
 Me chamo Douglas, sou brasileiro, estudante de Bacharelado em Ciência da Computação e do curso superior de tecnologia em Análise e Desenvolvimento de Sistemas.
@@ -26,24 +46,6 @@ Tenho uma curiosidade constante em aprender coisas novas e me conectar com pesso
 &nbsp;
 Se quiser se conectar comigo, sinta-se à vontade para entrar em contato! Estou à disposição 😄
 
-<details>
-  <summary><strong style="font-size: larger;">View Profile in English</strong></summary>
-
-**Hello! I’m Jackson Douglas! 👋**
-
-Welcome to my profile!
-My name is Douglas, I’m Brazilian, and a student of a Bachelor’s degree in Computer Science as well as a Technology degree in Systems Analysis and Development.
-
-I’m the proud father of 7 cats — they can be a handful, but they’re very special and always present in my busy study routine, right by my side.
-
-In my free time, I enjoy camping, hiking, walking, reading, and traveling whenever possible.
-
-I’m flexible and respect the individuality of each person, applying this mindset both in the workplace and in my daily life.
-
-I enjoy tackling complex challenges, designing algorithms, and exchanging creative ideas with friends. I always strive to exceed expectations and, although I’m a perfectionist, I value the balance between attention to detail and the big picture.
-
-I have a constant curiosity for learning new things and connecting with people from different fields. If you’d like to connect with me, feel free to reach out! I’m always open 😄
-
 </details>
 
 <!-- -->
@@ -51,7 +53,7 @@ I have a constant curiosity for learning new things and connecting with people f
 <details>
   <summary><strong style="font-size: larger;">Ver Perfil en Español</strong></summary>
 
-**¡Hola! Soy Jackson Douglas! 👋**
+**¡Hola! Soy [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋**
 
 ¡Bienvenido a mi perfil!
 Me llamo Douglas, soy brasileño y estudiante de Licenciatura en Ciencias de la Computación y de Tecnología en Análisis y Desarrollo de Sistemas.
@@ -73,7 +75,7 @@ Tengo una curiosidad constante por aprender cosas nuevas y conectarme con person
 <details>
   <summary><strong style="font-size: larger;">Voir le Profil en Français</strong></summary>
 
-**Bonjour ! Je suis Jackson Douglas ! 👋**
+**Bonjour ! Je suis [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋**
 
 Bienvenue sur mon profil !
 Je m’appelle Douglas, je suis brésilien et étudiant en Licence d’Informatique ainsi qu’en Technologie en Analyse et Développement de Systèmes.
