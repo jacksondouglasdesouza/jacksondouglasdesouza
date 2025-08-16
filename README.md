@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/3c5a799b-40ca-47dd-aec7-f9d864b1d65d" width="100%">
+
 # Hello! I’m [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
  
 <p><a href="https://twitter.com/catmorphnft"><img src="https://img.shields.io/twitter/follow/catmorphnft?style=social" alt="Twitter: @catmorphnft"></a><a href="https://www.linkedin.com/in/jacksondouglasdsouza/"><img src="https://img.shields.io/badge/-jackson%20Douglas-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jacksondouglasdsouza/" alt="Linkedin: @jacksondouglasdsouza">
@@ -8,7 +10,7 @@
 
 <div align="left">
 
-<img src="https://github.com/user-attachments/assets/7f9d7a0d-18f4-444d-b730-8509fbdf4ebe" width="400" align="right" style="padding:20;">
+<img src="https://github.com/user-attachments/assets/7f9d7a0d-18f4-444d-b730-8509fbdf4ebe" width="350" align="right">
 &nbsp;
 
 
@@ -106,3 +108,4 @@ J’ai une curiosité constante pour apprendre de nouvelles choses et me connect
 <img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/0d294d9d-600b-4ba7-b06a-fe57c23d232a.svg" width="45%">
 <img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/2dd28947-eab3-4c0f-98a0-82e0419c91df.svg" width="45%" align="right">  
 </div>
+<img src="https://github.com/user-attachments/assets/d589a2f7-25a7-446e-9263-4edd7e5d2372" width="100%">
