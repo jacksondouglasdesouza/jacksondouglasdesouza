@@ -23,7 +23,7 @@ I’m flexible and respect the individuality of each person, applying this minds
 I enjoy tackling complex challenges, designing algorithms, and exchanging creative ideas with friends. I always strive to exceed expectations and, although I’m a perfectionist, I value the balance between attention to detail and the big picture.
 
 I have a constant curiosity for learning new things and connecting with people from different fields.
-&nbsp;
+</br>
 If you’d like to connect with me, feel free to reach out! I’m always open 😄
 
 <details>
