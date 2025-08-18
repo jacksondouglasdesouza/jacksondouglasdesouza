@@ -2,9 +2,8 @@
 
 # Hello! I’m [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
  
-<p><a href="https://twitter.com/catmorphnft"><img src="https://img.shields.io/twitter/follow/catmorphnft?style=social" alt="Twitter: @catmorphnft"></a><a href="https://www.linkedin.com/in/jacksondouglasdsouza/"><img src="https://img.shields.io/badge/-jackson%20Douglas-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jacksondouglasdsouza/" alt="Linkedin: @jacksondouglasdsouza">
-</a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.shields.io/github/followers/jacksondouglasdesouza?label=follow&amp;style=social" alt="GitHub:@jacksondouglasdesouza"></a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.shields.io/github/followers/jacksondouglasdesouza?label=follow&amp;style=social" alt="GitHub: @jacksondouglasdesouza"></a><a href="https://dev.to/jacksondouglasdesouzaa"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Perfil DEV de jacksondouglasdesouzaa" height="20" width="25">
-</a><a href="mailto:jacksondouglasdesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-jacksondouglasdesouza-red" alt="Gmail: disponível"></a>
+<p><a href="https://www.linkedin.com/in/jacksondouglasdsouza/"><img src="https://img.shields.io/badge/-jackson%20Douglas-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jacksondouglasdsouza/" alt="Linkedin: @jacksondouglasdsouza">
+</a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.shields.io/github/followers/jacksondouglasdesouza?label=follow&amp;style=social" alt="GitHub:@jacksondouglasdesouza"></a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.shields.io/github/followers/jacksondouglasdesouza?label=follow&amp;style=social" alt="GitHub: @jacksondouglasdesouza"></a></a><a href="mailto:jacksondouglasdesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-jacksondouglasdesouza-red" alt="Gmail: disponível"></a>
 
 <!-- -->
 
