@@ -2,8 +2,15 @@
 
 # Hello! I’m [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
  
-<a href="https://www.linkedin.com/in/jacksondouglasdsouza/"><img src="https://img.icons8.com/?size=50&id=qNUNvR9aEWql&format=png&color=000000" alt="Linkedin: @jacksondouglasdsouza"></a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.icons8.com/?size=50&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub:@jacksondouglasdesouza"></a><a href="mailto:jacksondouglasdesouza@gmail.com"><img src="https://img.icons8.com/?size=46&id=80317&format=png&color=000000" alt="Gmail: disponível"></a>
+<a href="https://www.linkedin.com/in/jacksondouglasdsouza/"><img src="https://github.com/user-attachments/assets/0b856e83-57a6-48b3-b404-7b1cbfefceaf" alt="Linkedin: @jacksondouglasdsouza" width="45"></a>
+<a href="mailto:ocontatodouglas@proton.me"><img src="https://github.com/user-attachments/assets/b0cba793-7689-4e11-ba13-8e832bf97383" alt="Gmail: disponível" width="45"></a>
+<a href="https://discord.com/channels/@jacksondouglasdesouza"><img src="https://github.com/user-attachments/assets/b418016a-a49b-4423-86fc-e52a5e2347c1" width="45"></a>
+<a href="https://wa.me/554899955883"><img src="https://github.com/user-attachments/assets/77b4369e-b1fc-4586-a002-46bb9ef01741" alt="WhatsApp" width="45"></a>
+<a href="https://github.com/jacksondouglasdesouza"><img src="https://github.com/user-attachments/assets/afcceaab-5866-4d70-93bb-7be55102fea3" alt="GitHub:@jacksondouglasdesouza" width="45"></a>
+
+
 <!-- -->
+
 
 <div align="left">
 
