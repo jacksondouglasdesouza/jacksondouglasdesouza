@@ -2,8 +2,7 @@
 
 # Hello! I’m [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
  
-<p><a href="https://www.linkedin.com/in/jacksondouglasdsouza/"><img src="https://img.icons8.com/?size=50&id=qNUNvR9aEWql&format=png&color=000000" alt="Linkedin: @jacksondouglasdsouza"></a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.icons8.com/?size=50&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub:@jacksondouglasdesouza"></a><a href="mailto:jacksondouglasdesouza@gmail.com"><img src="https://img.icons8.com/?size=46&id=80317&format=png&color=000000" alt="Gmail: disponível"></a>
-
+<a href="https://www.linkedin.com/in/jacksondouglasdsouza/"><img src="https://img.icons8.com/?size=50&id=qNUNvR9aEWql&format=png&color=000000" alt="Linkedin: @jacksondouglasdsouza"></a><a href="https://github.com/jacksondouglasdesouza"><img src="https://img.icons8.com/?size=50&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub:@jacksondouglasdesouza"></a><a href="mailto:jacksondouglasdesouza@gmail.com"><img src="https://img.icons8.com/?size=46&id=80317&format=png&color=000000" alt="Gmail: disponível"></a>
 <!-- -->
 
 <div align="left">
