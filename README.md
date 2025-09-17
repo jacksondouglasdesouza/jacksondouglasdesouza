@@ -14,9 +14,8 @@
 
 <div align="left">
 
-<img src="https://github.com/user-attachments/assets/b8e9153d-3cd7-44d7-a967-c6e77c49c3cc" width="290" align="right">
+<img src="https://github.com/user-attachments/assets/18a32850-01bf-438c-9a1a-2ba25875c90e" width="290" align="right">
 &nbsp;
-
 
 Welcome to my profile! My name is Douglas, I’m Brazilian, and a student of a Bachelor’s degree in Computer Science as well as a Technology degree in Systems Analysis and Development.
 
