@@ -11,10 +11,9 @@
 
 <!-- -->
 
-
 <div align="left">
 
-<img src="https://github.com/user-attachments/assets/18a32850-01bf-438c-9a1a-2ba25875c90e" width="290" align="right">
+<img src="https://github.com/user-attachments/assets/b8e9153d-3cd7-44d7-a967-c6e77c49c3cc" width="290" align="right">
 &nbsp;
 
 Welcome to my profile! My name is Douglas, I’m Brazilian, and a student of a Bachelor’s degree in Computer Science as well as a Technology degree in Systems Analysis and Development.
@@ -105,10 +104,10 @@ J’ai une curiosité constante pour apprendre de nouvelles choses et me connect
 
 ## ⚡ My Coding Statistics
 <div>
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/68f03de7-194d-4d9e-8414-607184ae2fb0.svg" width="45%">
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/4440628a-3af4-4ede-b864-ea1ed81da741.svg" width="45%" align="right">
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/fda16d63-d976-4e17-a6cc-d4b2b597d6d3.svg" width="45%">
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/de52e669-e6bb-4ecd-871a-1ae416cdf67e.svg" width="45%" align="right">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/68f03de7-194d-4d9e-8414-607184ae2fb0.svg" width="49%">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/4440628a-3af4-4ede-b864-ea1ed81da741.svg" width="49%" align="right">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/fda16d63-d976-4e17-a6cc-d4b2b597d6d3.svg" width="49%">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/de52e669-e6bb-4ecd-871a-1ae416cdf67e.svg" width="49%" align="right">
 </div>
 
 ![Estatísticas de Codificação](https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/d9b7a23c-1e71-46c8-8b39-cefa11453743.svg)
