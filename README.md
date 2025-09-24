@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3c5a799b-40ca-47dd-aec7-f9d864b1d65d" width="100%">
+<img width="100%" src="https://github.com/user-attachments/assets/470b3bd3-9fa5-445e-9f5f-90444d595793" />
 
 # Hello! I’m [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
  
