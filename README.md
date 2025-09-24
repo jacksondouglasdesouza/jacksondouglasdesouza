@@ -1,6 +1,6 @@
-<a><img width="100%" src="https://github.com/user-attachments/assets/470b3bd3-9fa5-445e-9f5f-90444d595793" /></a>
+<a href="https://www.npmjs.com/package/codymath"><img width="100%" src="https://github.com/user-attachments/assets/470b3bd3-9fa5-445e-9f5f-90444d595793" /></a>
 
-https://www.npmjs.com/package/codymath 
+
 
 # Hello! I’m [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋
  
