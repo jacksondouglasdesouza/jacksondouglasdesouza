@@ -108,12 +108,12 @@ Si mon travail et ma passion vous interpellent, n'hésitez pas à me contacter !
 
 ## ⚡ My Coding Statistics
 <div>
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/68f03de7-194d-4d9e-8414-607184ae2fb0.svg" width="48%">
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/4440628a-3af4-4ede-b864-ea1ed81da741.svg" width="48%" align="right">
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/fda16d63-d976-4e17-a6cc-d4b2b597d6d3.svg" width="48%">
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/de52e669-e6bb-4ecd-871a-1ae416cdf67e.svg" width="48%" align="right">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/0da80eee-f34f-4845-af61-e17f713e191e.png" width="48%">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/ebd5a615-ff37-4eef-bc8f-a8ed1c37a439.svg" width="48%" align="right">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/06933200-3988-439d-a8d8-4030fa24f6d1.svg" width="48%">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/4f0a122f-2cea-40a9-92a2-3a0a565b5ad5.svg" width="48%" align="right">
 </div>
 
-![Estatísticas de Codificação](https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/d9b7a23c-1e71-46c8-8b39-cefa11453743.svg)
+![Estatísticas de Codificação](https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/b4820dc0-ffbd-4882-a9d2-025ee397d515.svg)
 
 <img src="https://github.com/user-attachments/assets/d589a2f7-25a7-446e-9263-4edd7e5d2372" width="100%">
