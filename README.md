@@ -118,4 +118,6 @@ Si mon travail et ma passion vous interpellent, n'hésitez pas à me contacter !
 
 ![Estatísticas de Codificação](https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/b4820dc0-ffbd-4882-a9d2-025ee397d515.svg)
 
+<a href="https://info.flagcounter.com/fyLB"><img src="https://s01.flagcounter.com/count/fyLB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" width="80%" align="center"></a>
+
 <img src="https://github.com/user-attachments/assets/d589a2f7-25a7-446e-9263-4edd7e5d2372" width="100%">
