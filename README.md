@@ -18,17 +18,11 @@
 <img src="https://github.com/user-attachments/assets/b8e9153d-3cd7-44d7-a967-c6e77c49c3cc" width="290" align="right">
 &nbsp;
 
-Welcome to my profile! 'm Jackson Douglas, a Computer Science student from Brazil with a deep passion for solving complex challenges through elegant code.
+Welcome to my profile! I'm Jackson Douglas, a B.Sc. student in Software Engineering from Brazil, with a deep passion for solving complex challenges through elegant code.
 
-My mission is to create robust, high-quality, open-source tools that empower developers worldwide.
-This passion is the driving force behind my main project, Cody Math, an ambitious effort to build the most comprehensive mathematical library in the JavaScript/TypeScript ecosystem.
-Leading this project has honed my skills in algorithm design, rigorous testing, and creating professional, developer-friendly documentation.
+I thrive in collaborative environments where creative ideas can flourish, and I am always driven to exceed expectations. While I am a perfectionist with a keen eye for detail, I understand the importance of balancing precision with the broader project goals.
 
-I thrive in collaborative environments where creative ideas can flourish, and I am always driven to exceed expectations.
-While I am a perfectionist with a keen eye for detail, I understand the importance of balancing precision with the broader project goals.
-
-When I'm not coding or architecting the next phase of Cody Math, you can find me recharging in nature—camping, hiking, or traveling.
-I'm also a proud father to seven cats who serve as my loyal companions during my study sessions.
+When I'm not coding, you can find me recharging in nature; camping, hiking, or traveling. I'm also a proud father to seven cats who serve as my loyal companions during my study sessions.
 
 I am always open to connecting with people from different fields and learning new things. If my work and passion resonate with you, feel free to reach out!
 
@@ -37,20 +31,13 @@ I am always open to connecting with people from different fields and learning ne
 
 **Olá, eu sou o [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋**
 
-Meu nome é Jackson Douglas, sou estudante de Ciência da Computação no Brasil e apaixonado por resolver desafios complexos através de código elegante.
+Bem-vindo ao meu perfil! Sou Jackson Douglas, estudante de Bacharelado em Engenharia de Software do Brasil, com uma paixão profunda por resolver desafios complexos por meio de códigos elegantes.
 
-Minha missão é criar ferramentas de código aberto robustas, de alta qualidade, que capacitem desenvolvedores ao redor do mundo.
-Essa paixão é a força motriz por trás do meu projeto principal, a Cody Math, um esforço ambicioso para construir a biblioteca matemática mais completa do ecossistema JavaScript/TypeScript.
-Liderar este projeto tem aprimorado minhas habilidades em design de algoritmos, testes rigorosos e na criação de documentação profissional e amigável para desenvolvedores.
+Eu me destaco em ambientes colaborativos onde ideias criativas podem florescer, e estou sempre motivado a superar expectativas. Embora eu seja perfeccionista e tenha um olhar aguçado para os detalhes, entendo a importância de equilibrar a precisão com os objetivos mais amplos do projeto.
 
-Eu prospero em ambientes colaborativos onde ideias criativas podem florescer, e sou sempre motivado a superar as expectativas.
-Embora eu seja um perfeccionista com um olhar atento aos detalhes, entendo a importância de equilibrar a precisão com os objetivos gerais do projeto.
+Quando não estou programando, você pode me encontrar recarregando as energias na natureza; acampando, fazendo trilhas ou viajando. Também sou o pai orgulhoso de sete gatos, que servem como meus companheiros leais durante minhas sessões de estudo.
 
-Quando não estou programando ou arquitetando a próxima fase da Cody Math, você pode me encontrar recarregando as energias na natureza — acampando, fazendo trilhas ou viajando.
-Também sou o orgulhoso pai de sete gatos, que servem como meus companheiros leais durante minhas sessões de estudo.
-
-Estou sempre aberto a me conectar com pessoas de diferentes áreas e a aprender coisas novas.
-Se meu trabalho e minha paixão ressoam com você, sinta-se à vontade para entrar em contato!
+Estou sempre aberto a me conectar com pessoas de diferentes áreas e a aprender coisas novas. Se o meu trabalho e a minha paixão ressoam com você, sinta-se à vontade para entrar em contato!
 
 </details>
 
@@ -61,20 +48,13 @@ Se meu trabalho e minha paixão ressoam com você, sinta-se à vontade para entr
 
 **¡Hola! Soy [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋**
 
-Mi nombre es Jackson Douglas, soy estudiante de Ciencias de la Computación en Brasil y un apasionado por resolver desafíos complejos a través de código elegante.
+¡Bienvenido a mi perfil! Soy Jackson Douglas, estudiante de grado en Ingeniería de Software de Brasil, con una profunda pasión por resolver desafíos complejos a través de código elegante.
 
-Mi misión es crear herramientas de código abierto robustas y de alta calidad que empoderen a desarrolladores de todo el mundo.
-Esta pasión es la fuerza motriz detrás de mi proyecto principal, Cody Math, un esfuerzo ambicioso por construir la biblioteca matemática más completa del ecosistema JavaScript/TypeScript.
-Liderar este proyecto ha perfeccionado mis habilidades en diseño de algoritmos, pruebas rigurosas y en la creación de documentación profesional y amigable para desarrolladores.
+Me destaco en entornos colaborativos donde las ideas creativas pueden florecer, y siempre estoy motivado para superar las expectativas. Aunque soy perfeccionista y tengo buen ojo para los detalles, entiendo la importancia de equilibrar la precisión con los objetivos más amplios del proyecto.
 
-Prospero en entornos colaborativos donde las ideas creativas pueden florecer, y siempre estoy motivado a superar las expectativas.
-Aunque soy un perfeccionista con un ojo atento a los detalles, comprendo la importancia de equilibrar la precisión con los objetivos generales del proyecto.
+Cuando no estoy programando, puedes encontrarme recargando energías en la naturaleza; acampando, haciendo senderismo o viajando. También soy el orgulloso padre de siete gatos, que son mis fieles compañeros durante mis sesiones de estudio.
 
-Cuando no estoy programando o diseñando la próxima fase de Cody Math, puedes encontrarme recargando energías en la naturaleza: acampando, haciendo senderismo o viajando.
-También soy el orgulloso padre de siete gatos, que son mis leales compañeros durante mis sesiones de estudio.
-
-Siempre estoy abierto a conectar con personas de diferentes áreas y a aprender cosas nuevas.
-Si mi trabajo y mi pasión resuenan contigo, ¡no dudes en contactarme!
+Siempre estoy abierto a conectarme con personas de diferentes áreas y a aprender cosas nuevas. Si mi trabajo y pasión resuenan contigo, ¡no dudes en contactarme!
 
 </details>
 
@@ -85,20 +65,13 @@ Si mi trabajo y mi pasión resuenan contigo, ¡no dudes en contactarme!
 
 **Bonjour ! Je suis [Jackson Douglas](https://www.linkedin.com/in/jacksondouglasdsouza/)! 👋**
 
-Je m'appelle Jackson Douglas, je suis un étudiant brésilien en informatique et un passionné par la résolution de défis complexes à travers un code élégant.
+Bienvenue sur mon profil ! Je suis Jackson Douglas, étudiant en licence de génie logiciel au Brésil, avec une profonde passion pour la résolution de défis complexes grâce à un code élégant.
 
-Ma mission est de créer des outils open source robustes et de haute qualité qui donnent aux développeurs du monde entier les moyens d'agir.
-Cette passion est le moteur de mon projet principal, Cody Math, un effort ambitieux pour construire la bibliothèque mathématique la plus complète de l'écosystème JavaScript/TypeScript.
-Diriger ce projet a perfectionné mes compétences en conception d'algorithmes, en tests rigoureux et dans la création d'une documentation professionnelle et conviviale pour les développeurs.
+Je m'épanouis dans des environnements collaboratifs où les idées créatives peuvent fleurir, et je suis toujours motivé à dépasser les attentes. Bien que je sois perfectionniste avec un souci aigu du détail, je comprends l'importance d'équilibrer la précision avec les objectifs plus vastes du projet.
 
-Je m'épanouis dans des environnements collaboratifs où les idées créatives peuvent s'épanouir, et je suis toujours motivé à dépasser les attentes.
-Bien que je sois un perfectionniste avec un sens aigu du détail, je comprends l'importance d'équilibrer la précision avec les objectifs généraux du projet.
+Quand je ne programme pas, vous pouvez me trouver en train de me ressourcer dans la nature ; en faisant du camping, de la randonnée ou en voyageant. Je suis aussi l'heureux papa de sept chats qui sont mes fidèles compagnons pendant mes sessions d'étude.
 
-Quand je ne code pas ou n'architecture pas la prochaine phase de Cody Math, vous pouvez me trouver en train de me ressourcer dans la nature : en faisant du camping, de la randonnée ou en voyageant.
-Je suis également le fier père de sept chats, qui me servent de loyaux compagnons pendant mes sessions d'étude.
-
-Je suis toujours ouvert à entrer en contact avec des personnes de différents domaines et à apprendre de nouvelles choses.
-Si mon travail et ma passion vous interpellent, n'hésitez pas à me contacter !
+Je suis toujours ouvert à l'idée d'échanger avec des personnes de différents domaines et d'apprendre de nouvelles choses. Si mon travail et ma passion résonnent en vous, n'hésitez pas à me contacter !
 
 </details>
 
