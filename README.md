@@ -83,7 +83,7 @@ Je suis toujours ouvert à l'idée d'échanger avec des personnes de différents
 
 ## ⚡ My Coding Statistics
 <div>
-<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/0da80eee-f34f-4845-af61-e17f713e191e.png" width="48%">
+<img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/6923b252-9269-4988-92f5-b0e614044119.svg" width="48%">
 <img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/ebd5a615-ff37-4eef-bc8f-a8ed1c37a439.svg" width="48%" align="right">
 <img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/06933200-3988-439d-a8d8-4030fa24f6d1.svg" width="48%">
 <img src="https://wakatime.com/share/@4d49077a-9d71-434c-91af-d92b4b049650/4f0a122f-2cea-40a9-92a2-3a0a565b5ad5.svg" width="48%" align="right">
